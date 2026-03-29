@@ -15,7 +15,7 @@ The repository includes:
 * Implementation of the proposed **ADP-NHPP** method
 * Implementation of the **FA-HPP** baseline
 * Training and testing pipelines
-* Pretrained neural network models
+* well-trained neural network
 * Data processing and visualization scripts
 
 ---
