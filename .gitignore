@@ -1,0 +1,4 @@
+*.log
+nhpp_ridehailing_logs/
+wandb/
+*.wandb
